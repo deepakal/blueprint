@@ -20,4 +20,4 @@ kpt live apply cert-manager-basic --reconcile-timeout=2m --output=table
 ```
 Details: https://kpt.dev/reference/cli/live/
 
-This is V2 from blueprint
+This is V3 from blueprint
