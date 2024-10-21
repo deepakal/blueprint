@@ -1,7 +1,7 @@
 # cert-manager-basic
 
 ## Description
-sample description
+sample description. This is v2 version
 
 ## Usage
 
